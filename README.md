@@ -61,7 +61,7 @@
 
 <br>
 
-![Gsap Animation Image](./Images/Animation1.png)
+<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/Animation1.png" width="550px" height="550px">
 
 <br>
 
@@ -69,7 +69,7 @@
 
 <br>
 
-![Gsap Animation Image](./Images/Animation2.png)
+<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/Animation2.png" width="550px" height="550px">
 
 <br>
 
@@ -77,4 +77,4 @@
 
 <br>
 
-![Gsap Animation Image](./Images/Animation3.jpg)
+<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/Animation3.jpg" width="550px" height="550px">
