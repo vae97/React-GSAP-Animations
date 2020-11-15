@@ -69,7 +69,7 @@
 
 <br>
 
-<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/Animation2.png" width="50%">
+<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/animation2.gif" width="50%">
 
 <br>
 
@@ -77,4 +77,4 @@
 
 <br>
 
-<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/Animation3.jpg" width="50%">
+<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/animation3.gif" width="50%">
