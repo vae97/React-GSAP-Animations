@@ -61,7 +61,7 @@
 
 <br>
 
-<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/Animation1.png" width="50%" >
+<img src="https://github.com/vae97/React-GSAP-Animations/blob/main/Images/animation1.gif" width="50%" >
 
 <br>
 
